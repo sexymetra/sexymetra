@@ -1,0 +1,7 @@
+This file is a sample to read for obtaining informations. 
+However, there are commas, periods, as well as hyphens, 
+for instance, good-looking, etc. 
+In addition, numbers can be included, too, such as 1234.
+White characters are also contained in it. For example, 
+the enter, the space, and the tab keys are the cases. 
+These keys are invisible in screen when printed.
